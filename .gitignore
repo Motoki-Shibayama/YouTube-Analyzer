@@ -1,0 +1,6 @@
+.venv
+secret.json
+.DS_Store
+.ipynb*
+*.git
+*.ipynb
